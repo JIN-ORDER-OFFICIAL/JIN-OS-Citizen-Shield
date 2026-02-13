@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/logo.png" width="400">
+</p>
+
+# JIN-OS: Citizen Shield (仁の市民盾)
 # JIN-OS: Citizen Shield (仁の市民盾)
 
 > **「地獄の門を蹴り開け、誰も泣かない世界を実装する」**
