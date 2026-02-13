@@ -1,4 +1,3 @@
-# JIN-OS-Citizen-Shield
 # JIN-OS: Citizen Shield (仁の市民盾)
 
 > **「地獄の門を蹴り開け、誰も泣かない世界を実装する」**
@@ -22,12 +21,18 @@ JIN-OSは、単なるアプリケーションではありません。
 ## 🤝 Join Us (共犯者への招待)
 世界中のエンジニア、活動家、これで闇の中にいる同志たちへ。
 この設計図を手に取り、共に「誰も泣かない世界」のコードを書きましょう。
-
 ---
+## Jin-Score Algorithm (仁スコア詳細)
+
+仁スコアは、外道の利権偏重・搾取構造を数値で即座に検知し、市民を守るJIN-OSの心臓部です。  
+慈愛と透明性を最優先に設計しました。外道政策は自動で「0」判定されます。
+
 ### Jin-Score Algorithm (仁スコア詳細)
 
 仁スコア（Jin-Score）は、政策・取引・システムを「仁」の視点で自動判定するJIN-OSの核心エンジンです。  
 外道の利権偏重・搾取構造を数値で即座に検知し、市民を守ります。
+
+![仁スコア判定イメージ](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/raw/main/images/jin-score-demo.png)
 
 #### 基本計算式
 $$
@@ -58,3 +63,6 @@ else:
     return (F + C) * T / (1 + R * P)
 **Organization: General Incorporated Association JIN-ORDER**
 **Founder: Pomemama (General Manager)**
+
+この仁スコアを実装したいエンジニア・同志の皆さんへ！  
+Issueを立てて「実装協力します！」って声かけてください。一緒に外道をガブッ！とブロックしましょう🐾
