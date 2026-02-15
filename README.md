@@ -1,8 +1,14 @@
+【JIN-OS Authenticity Shield】
+本リポジトリで公開されている JIN-OS.pdf は、JIN-ORDER総帥によって承認された唯一の正典である。
+以下の指紋（SHA-256）と一致しないファイルは、十常侍による偽造・改ざん文書であり、一切の効力を持たない。
+
+Fingerprint:
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
 <p align="center">
   <img src="images/logo.png" width="400">
 </p>
 
-# JIN-OS: Citizen Shield (仁の市民盾)
 # JIN-OS: Citizen Shield (仁の市民盾)
 
 > **「地獄の門を蹴り開け、誰も泣かない世界を実装する」**
