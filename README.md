@@ -42,7 +42,7 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 以下の指紋（SHA-256）と一致しないファイルは、十常侍による偽造・改ざん文書であり、一切の効力を持たない。
 
 Fingerprint:
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+753cb4aacc15e8bf99d1806380dd3df0006934377fcf1872c11204c705dbef8
 
 <p align="center">
   <img src="images/logo.png" width="400">
