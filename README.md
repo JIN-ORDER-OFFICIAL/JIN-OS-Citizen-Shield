@@ -55,8 +55,6 @@ Fingerprint:
 仁スコア（Jin-Score）は、政策・取引・システムを「仁」の視点で自動判定するJIN-OSの核心エンジンです。  
 外道の利権偏重・搾取構造を数値で即座に検知し、市民を守ります。
 
-![仁スコア判定イメージ](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/raw/main/images/jin-score-demo.png)
-
 #### 基本計算式
 $$
 J_{\text{score}} = \frac{(F_{\text{airness}} + C_{\text{ompassion}}) \times T_{\text{ransparency}}}{1 + (R_{\text{isk}} \times P_{\text{enalty}})}
