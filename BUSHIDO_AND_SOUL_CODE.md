@@ -9,7 +9,7 @@
 # 🗡️ 武士道と魂の覚醒：真の剣を抜く時
 ## BUSHIDO AND THE AWAKENING OF THE SOUL  DRAWING THE TRUE SWORD
 
-![武士道](../images/BUSHIDO_THE_SOUL.jpg)  
+![武士道](./images/BUSHIDO_THE_SOUL.jpg)  
 
 ### 民より奪うを『利』と心得るとは、もはや人の道にあらず！
 
