@@ -1,5 +1,15 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
+
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+
+*This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
+
+---
 # 🗡️ 武士道と魂の覚醒：真の剣を抜く時
 ## BUSHIDO AND THE AWAKENING OF THE SOUL  DRAWING THE TRUE SWORD
+
+![武士道](../images/BUSHIDO_THE_SOUL.jpg)  
 
 ### 民より奪うを『利』と心得るとは、もはや人の道にあらず！
 
