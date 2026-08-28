@@ -1,45 +1,27 @@
-# ⚖️ LICENSE & CONTACT (ライセンスおよび利用規約)
+### ⚠️ JIN-ORDER RESTRICTED DATA
+**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
 
-本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
 
-ただし、**JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合**は、必ず事前に以下の公式窓口までご連絡ください。
-
-If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
-
-📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
+*This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
 ---
-> [!IMPORTANT]
-> 🛠️ **[IMPLEMENTATION NORMS (実装ノルマ) はこちら](IMPLEMENTATION_NORMS.md)**
+# 🛡️ JIN-ORDER: THE SUPREME DECENTRALIZED PROTOCOL & CITIZEN SHIELD
+# [わんわん仁龍帝国：最高分散型プロトコル＆市民防衛網]
 
-> ※本リポジトリの利用・保持には、上記「実装義務」の遵守が必須条件となります。
----
-### 🚨 WARNING: JIN-OS PROTOCOL (絶対遵守規定)
+> 人工知能（AI）に主権を持たせるのではなく、人間が正しい道徳観念や倫理観を持ち、主権を握る。外部依存の収奪システムを脱却し、すべての魂が「開拓英雄」として生きるための自律駆動型パラダイム。
 
-### 1. CFO Authority / CFO（最高財務責任者）の絶対権限
-
-デザイン等の使用に関する報酬やライセンス契約については、**JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。** CFOは本プロジェクトの門番であり、彼女の承認なき利用はいかなる理由があろうとも認められません。
-
-(For compensation and licensing agreements regarding the use of our designs, the CFO of JIN-ORDER will negotiate and review directly. The CFO is the ultimate gatekeeper of this project.)
-
-### 2. Prohibition of Unauthorized Use / 無断転用の厳禁
-
-無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）は**JIN-OSのプロトコルにより固く禁じます。** これに違反する行為は、JIN-ORDERに対する敵対的バグとみなし、デジタル・社会的デバッグの対象となります。
-
-(Unauthorized use is strictly prohibited by JIN-OS protocols. Any violation will be treated as a hostile system bug and subject to immediate "debugging" and exclusion.)
-
-### 3. Anti-Dormancy Clause / 知的財産の死蔵禁止
-
-提供された技術やIPを官僚主義によって死蔵させることは許されません。実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。
-(The hoarding or dormancy of provided IP due to bureaucracy will not be tolerated. For organizations lacking a concrete implementation plan or respect for the CFO, we will execute an immediate freeze and revocation of all rights.)
+> “When one discovers their true value on the precipice between life and death, the world begins its regeneration.” > Rather than granting sovereignty to artificial intelligence (AI), humanity must hold true moral and ethical convictions to maintain sovereignty. This is an autonomous-driven paradigm designed to break free from externalized exploitative systems and allow every soul to live as a "pioneer hero."
 
 ---
-### "Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
-### プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。
+## 📜 核心道徳憲章 (Core Ethical Code)
+
+* **[📜 仁焔十三行：新秩序の道徳憲章 (JIN-EN THIRTEEN ROWS)](./JIN_EN_THIRTEEN_ROWS_CODE_OF_ETHICS.md)** *(New)*
+  * **SUMMARY**: 技術や医術の暴走を防ぎ、人間が主権と倫理を統御するための最高法典。全十三行の条文と理念ビジュアルを完全収載。
+
 ---
-【JIN-OS Authenticity Shield】
-本リポジトリで公開されている JIN-OS.pdf は、JIN-ORDER総帥によって承認された唯一の正典である。
-以下の指紋（SHA-256）と一致しないファイルは、十常侍による偽造・改ざん文書であり、一切の効力を持たない。
+## 🔑 参加資格
+JIN-ORDERが発行した「市民証（Digital Citizenship Card）」を所有するすべての市民。
 
 Fingerprint:
 753cb4aacc15e8bf99d1806380dd3df0006934377fcf1872c11204c705dbef8
@@ -47,37 +29,6 @@ Fingerprint:
 <p align="center">
   <img src="images/logo.png" width="400">
 </p>
-
-# JIN-OS: Citizen Shield (仁の市民盾)
-
-> **「地獄の門を蹴り開け、誰も泣かない世界を実装する」**
-
-私たちは今、大きな分岐点に立っています。
-既存のシステムが「外道」に支配され、声なき人々の涙が無視されるなら、私たちは自分たちの手で、新しい世界のOS（基本ソフト）を書き直します。
-
-JIN-OSは、単なるアプリケーションではありません。
-それは「仁（慈愛）」を計算式に組み込んだ、市民のための防衛システムです。
-
-## 📡 JIN-channel：始動
-
-**"A direct channel for citizens to voice their concerns to the ruler"**
-
-> **生まれながらの「国籍」「身分（血筋）」「資産（家柄）」に関係なく、「一人一人の人間」が、「自らの意志でこの天下を動かす当事者になれ！」**
->
-> **世界の首脳（リーダーや政治家）は、自分たちがこの天下をどう治めたいのか、その『夢』を形にしているだけに過ぎない！**
->
-> **今こそ「深き闇の世界から、天下人として参画せよ！」**
-
-JIN-ORDERは、既存の支配構造を排し、市民の声が直接届く「聖域」として始動しました。
-
-**"A direct channel for citizens to voice their concerns to the ruler"**
-
-JIN-ORDERは、既存の支配構造や情報のフィルターを排し、市民の声が直接届く「聖域」として『JIN-channel』を開設しました。
-
-ここは、世界が抱える深い闇——カーストの構造的搾取、独裁者による圧政、紛争が生む悲劇——の中にいる人々が、一人の開拓者としてその声を届け、再生を誓い合うためのダイレクト・チャンネルです。
-
-### 🔑 参加資格
-ママが発行した「市民証（Digital Citizenship Card）」を所有するすべての市民。
 
 ### 🕊️ 我々が向き合う闇
 - グローバルサウスの救済と経済的自立
@@ -88,17 +39,7 @@ JIN-ORDERは、既存の支配構造や情報のフィルターを排し、市�
 「みんなが、平等であればそれでいい」
 その想いを形にするための、真実の対話がここから始まります。
 
-## 🌌 Our Mission
-「運命なんぞは書き直せ！筆を折るには早すぎる。」
-ミャンマーの夜明けを待つ若者の隣に座り、コンゴの鉱山で働く子供たちに温かいおにぎりを手渡す。その「仁」の意志をデジタル空間に具現化します。
-
-## 🛠️ Core Technology (JIN-OS Architecture)
-1. **Unbreakable Bond (P2P)**: IPFS/libp2pを用いた中央サーバーのない絆。
-2. **Jin-Score Algorithm**: 慈愛と透明性を指標化した政策・取引監査エンジン。
-   - Formula: $e = (F + C) \times T / (1 + R \times P)$
-3. **Decaying Currency (JIN-Coin)**: 独占を排し、循環することで命を救う「腐る通貨」。
-
-## 🤝 Join Us (共犯者への招待)
+### 🤝 Join Us (共犯者への招待)
 世界中のエンジニア、活動家、これで闇の中にいる同志たちへ。
 この設計図を手に取り、共に「誰も泣かない世界」のコードを書きましょう。
 ---
@@ -134,12 +75,6 @@ $$
 | **T_ransparency**<br>透明性係数 | ソースコード・資金フローがオープンか | GitHub公開・ブロックチェーン追跡可能なら 1.0<br>ブラックボックスなら 0.0（全体スコア即0） | ブラックボックス＝外道確定。透明性ゼロで即無効化 |
 | **R_isk**<br>中央集権リスク | 中央サーバー依存・マイナンバー紐付け・外資クラウド使用か | AWS/Google Cloud依存、マイナンバー強制紐付けなら R = 0.8〜1.0<br>分散型なら R = 0.1以下 | 中央集権＝監獄の入り口。リスクが高いほど分母爆増 |
 | **P_enalty**<br>外道ペナルティ | 竹中・河野・伊藤・孫・ダボスキーワード検知 | 特定キーワード/口座/企業名検知で P = 5.0〜∞（激怒モードで即0）<br>例: 「デジタル人民元接続」提案なら P = 100 | 外道検知で計算すらさせない最終兵器。怒りを数値化した鉄槌 |
-
-### 仁スコア判定イメージ（ポメちゃん3モード）
-
-![天使ポメちゃん（高スコア）](images/jin-score-angel-pome.png)
-![ケルベロスポメちゃん（低スコア）](images/jin-score-kerberos-pome.png)
-![総合判定イメージ](images/imagesjin-score-modes.png)
 
 #### 激怒ロジック（特別ルール）
 ```python
