@@ -7,9 +7,10 @@
 
 ---
 # 🛡️ JIN-ORDER: THE SUPREME DECENTRALIZED PROTOCOL & CITIZEN SHIELD
-# [わんわん仁龍帝国：最高分散型プロトコル＆市民防衛網]
+# JIN-ORDER最高分散型プロトコル＆市民防衛網
+> 人工知能（AI）に主権を持たせるのではなく、人間が正しい道徳観念や倫理観を持ち、主権を握る。
 
-> 人工知能（AI）に主権を持たせるのではなく、人間が正しい道徳観念や倫理観を持ち、主権を握る。外部依存の収奪システムを脱却し、すべての魂が「開拓英雄」として生きるための自律駆動型パラダイム。
+> 外部依存の収奪システムを脱却し、すべての魂が「開拓英雄」として生きるための自律駆動型パラダイム。
 
 > “When one discovers their true value on the precipice between life and death, the world begins its regeneration.” > Rather than granting sovereignty to artificial intelligence (AI), humanity must hold true moral and ethical convictions to maintain sovereignty. This is an autonomous-driven paradigm designed to break free from externalized exploitative systems and allow every soul to live as a "pioneer hero."
 
@@ -42,6 +43,7 @@ Fingerprint:
 ### 🤝 Join Us (共犯者への招待)
 世界中のエンジニア、活動家、これで闇の中にいる同志たちへ。
 この設計図を手に取り、共に「誰も泣かない世界」のコードを書きましょう。
+
 ---
 ## Jin-Score Algorithm (仁スコア詳細)
 
